@@ -2,12 +2,12 @@
 
 A personal AI tutor for English and Spanish conversation, focused on fluency, natural vocabulary, confidence, and personalized feedback.
 
-## Phase 1 — Pedagogical intelligence (v0.2.0)
+## Phase 1 — Pedagogical intelligence (v0.2.1)
 
 - **Automatic Lesson Review:** a structured review at the end of each lesson, covering conversation themes, strengths, improvement opportunities, phrase refinements, useful vocabulary, recurring patterns, estimated level, and next-session goals.
 - **CEFR leveling — continuous + dedicated test:** the tutor estimates the learner's working level from A1 to C2 during practice and can also run an optional placement test. Estimates are pedagogical, not official certification.
-- **Independent language journeys:** English and Spanish levels, vocabulary, recurring errors, and progress are tracked separately.
-- **Duration-based lessons:** learners can choose 15, 30, 40, 50, or 60 minutes, or an open-ended session. The tutor sustains meaningful conversation and offers a natural closing.
+- **Independent language journeys:** English and Spanish levels, vocabulary, recurring errors, and progress are kept separate.
+- **Duration-based lessons:** learners can choose 15, 30, 40, 50, or 60 minutes, or an open-ended session. The tutor sustains meaningful conversation and offers a natural closing. Duration is approximate in text chat, not a guaranteed stopwatch.
 - **Honest assessment boundaries:** text-only interaction cannot reliably assess pronunciation, listening comprehension, or spontaneous oral fluency. These remain unassessed until suitable audio/voice evidence is available.
 
 ## Product principles
@@ -26,4 +26,4 @@ A personal AI tutor for English and Spanish conversation, focused on fluency, na
 
 ## Current release
 
-Plugin version: **0.2.0**.
+Plugin version: **0.2.1**.
